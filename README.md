@@ -15,7 +15,7 @@
       <img aling="center" alt="PHP" height="30" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
       <img aling="center" alt="C#" height="30" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
       <img aling="center" alt="MySQL" height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-      <img aling="center" alt="SQLServer" height="30" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+      <img aling="center" alt="MariaDB" height="30" src="https://img.shields.io/badge/MariaDB-CC2927?style=for-the-badge&logo=mariadb&logoColor=white">
       <img aling="center" alt="PostgreSQL" height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
       <img aling="center" alt="Laravel 8" height="30" src="https://img.shields.io/badge/Laravel%208-FF0000?style=for-the-badge&logo=laravel&logoColor=white">
       <img aling="center" alt="Bootstrap" height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
