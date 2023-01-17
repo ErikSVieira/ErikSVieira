@@ -2,8 +2,6 @@
    <a href="https://github.com/ErikSVieira">
       <img height="180rem" width="49%" src="https://github-readme-stats.vercel.app/api?username=ErikSVieira&theme=merko&show_icons=true" />
       <img height="180rem" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikSVieira&layout=compact&langs_count=7&theme=merko" />
-      <img height="180rem" width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ErikSVieira&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Erik Vieira's Github stats" />
-      <img height="180rem" width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ErikSVieira&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Erik Vieira's Language stats" />
    </a>
 </div><!--div1-->
   
