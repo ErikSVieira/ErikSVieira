@@ -1,7 +1,8 @@
 <div class="div1">
    <a href="https://github.com/ErikSVieira">
-   <img height="180rem" width="49%" src="https://github-readme-stats.vercel.app/api?username=ErikSVieira&theme=merko&show_icons=true"/>
-   <img height="180rem" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikSVieira&layout=compact&langs_count=7&theme=merko"/>
+      <img height="180rem" width="49%" src="https://github-readme-stats.vercel.app/api?username=ErikSVieira&theme=merko&show_icons=true"/>
+      <img height="180rem" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikSVieira&layout=compact&langs_count=7&theme=merko"/>
+   </a>
 </div><!--div1-->
   
 <div class="div2" align="center">
